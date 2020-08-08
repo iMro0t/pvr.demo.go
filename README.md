@@ -2,14 +2,13 @@
 
 Demo PVR client addon for [Kodi](http://kodi.tv)
 
-## Build instructions
+## Build Instructions
 
 ### Linux
 
-1. `go get github.com/iMro0t/pvr.demo.go`
-2. `cd $GOPATH/src/github.com/iMro0t/pvr.demo.go`
-3. `go build -buildmode=c-shared -o pvr.demo.go/pvr.demo.go.so.0.0.1`
-4. `zip -rq pvr.demo.go-0.0.1.zip pvr.demo.go`
+1. `go get github.com/iMro0t/go-pvr`
+2. `go build -buildmode=c-shared -o pvr.demo.go/pvr.demo.go.so.0.0.1`
+3. `zip -rq pvr.demo.go-0.0.1.zip pvr.demo.go`
 
 ##### Useful links
 
